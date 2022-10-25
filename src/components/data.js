@@ -14,7 +14,7 @@ export default[
 
     {
         id: 2,
-        image:"thailand.jpeg",
+        image:"thailand.jpg",
         destination: 'Thailand',
         duration: 8,
         groupsize: 4,
